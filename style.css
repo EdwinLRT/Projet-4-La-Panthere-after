@@ -849,11 +849,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 75%), url("img/agence-la-panthere.jpg");
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 75%), url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image:linear-gradient(0deg, rgba(0,0,0,0.2) 0%, rgba(243,151,108,0.1) 25%), url("img/image-de-presentation.bmp");
+    background-image:linear-gradient(0deg, rgba(0,0,0,0.2) 0%, rgba(243,151,108,0.1) 25%), url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
