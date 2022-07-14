@@ -661,7 +661,12 @@ a {
     color: #FFFFFF;
 
 }
-
+.bloc-md > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1){
+ font-size: 30px;
+ color: #000000;
+ font-weight: 500;   
+ text-transform: none;
+}
 
 
 .container {
