@@ -524,6 +524,11 @@ button {
     transition: all .3s ease-in-out;
 }
 
+#bloc-4-portfolio > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1){
+    font-size: 24px;
+    font-weight: 500;
+    
+}
 .scrollToTop span {
     margin-top: 6px;
 }
@@ -810,6 +815,7 @@ h4 {
 .bgc-white {
     background-color: #FFFFFF;
 }
+
 .col-sm-12 h4{
     margin: auto;
     max-width: 600px;
