@@ -1029,10 +1029,10 @@ div.col-sm-6:nth-child(2) p {
     div.tight-width-whitespace:nth-child(3) > div:nth-child(1) > a:nth-child(1) > img:nth-child(1),
     div.tight-width-whitespace:nth-child(3) > div:nth-child(2) > a:nth-child(1) > img:nth-child(1){
         margin: auto;
-        width: 330px;
-        height: 330px;
-        max-width: 330px;
-        max-height: 330px;
+        width: 250px;
+        height: 250px;
+        max-width: 250px;
+        max-height: 250px;
     }
     .nav > li {
         margin-top: 0;
