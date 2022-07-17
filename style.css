@@ -872,9 +872,8 @@ h4 {
 .bloc-md > div:nth-child(1) > div:nth-child(1) > h2:nth-child(1){
     color: #000000;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 500;
 }
-
 #bloc-5-cta{
     border-radius: 0;
 }
