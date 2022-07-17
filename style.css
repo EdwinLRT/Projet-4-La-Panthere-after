@@ -893,7 +893,7 @@ p.text-center:nth-child(2){
 div.col-sm-6:nth-child(2){
     text-align: center;
 }
-div.col-sm-6:nth-child(2) h4 {
+div.col-sm-6:nth-child(2) h2 {
     font-weight: 500;
     font-size: 24px;
 }
