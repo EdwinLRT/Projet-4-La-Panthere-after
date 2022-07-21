@@ -1,0 +1,7 @@
+User-Agent: *
+
+User-Agent: *
+
+Allow: /https://edwinlrt.github.io/Projet-4-La-Panthere-after/
+
+Sitemap: /https://edwinlrt.github.io/Projet-4-La-Panthere-after/sitemap.xml
