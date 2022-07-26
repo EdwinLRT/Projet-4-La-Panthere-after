@@ -513,6 +513,14 @@ button {
     box-shadow: none;
 
 }
+.fa-laptop-code,
+.fa-chart-line,
+.fa-pencil{
+    font-size: 70px;
+    color: #333333;
+}
+
+
 
 .scrollToTop {
     width: 40px;
