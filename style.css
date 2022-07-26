@@ -519,7 +519,15 @@ button {
     font-size: 70px;
     color: #333333;
 }
-
+div.tight-width-whitespace:nth-child(2) > div:nth-child(1) > p:nth-child(3),
+div.tight-width-whitespace:nth-child(3) > div:nth-child(1) > p:nth-child(3){
+    font-size: 18px;
+}
+div.tight-width-whitespace:nth-child(2) > div:nth-child(1) > a:nth-child(1) > img:nth-child(1)
+{
+    height: 270px;
+    width: 270px;
+}
 
 
 .scrollToTop {
